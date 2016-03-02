@@ -1,6 +1,6 @@
 FROM ubuntu:14.04
 
-ENV UNBOUND_VERSION=1.5.6
+ENV UNBOUND_VERSION=1.5.8
 
 ADD ./install.sh /tmp/install-unbound.sh
 

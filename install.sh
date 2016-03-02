@@ -2,7 +2,7 @@
 
 set -e
 
-VERSION=${UNBOUND_VERSION:-1.5.6}
+VERSION=${UNBOUND_VERSION:-1.5.8}
 
 _TMP_INSTALL_PATH="/tmp/unbound-install-dir"
 
